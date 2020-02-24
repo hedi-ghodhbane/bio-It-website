@@ -126,6 +126,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "BIOT"
+    }
+  },
+  "defaultProject": "BIOT",
+  "cli": {
+    "analytics": "8c49b157-a410-492b-afbb-66c9bae3612b"
+  }
 }
